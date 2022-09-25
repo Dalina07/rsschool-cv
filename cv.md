@@ -5,7 +5,6 @@ ___
 **phone number:** +7 (910) 418 69 07
 **e-mail adress:** ali.gavrikova@gmail.ru
 **discord:** Dalina07
-
 ___
 
 ### Personal information
