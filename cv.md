@@ -8,7 +8,11 @@ ___
 ___
 
 ### Personal information
+<<<<<<< HEAD
 Now I have been studing a new profession - "front-end developer". My goal is to become a good developer and create high-quality products. My strengths: perseverance and ability to work with a large amount of information.
+=======
+Now I have been stading new profession - "front-end developer". My goal is to become a good developer and create high-quality products. My strengths: perseverance and ability to work with a large amount of information.
+>>>>>>> 86519018c21e85097b13ae0687f8fcb6caed775a
 ___
 ### Skills
   * HTML & CSS
