@@ -42,5 +42,5 @@ ___
 
 ### Languages
   * Russian - native speaker
-  * English - intermediate (English First test: between B1 Intermediate and B2 Upper Intermediate)
-<img src='mailservice.png' width='25%'>
+  * English - intermediate (English First test: between B1 Intermediate and B2 Upper Intermediate) <br>
+<img src='mailservice.png' width='20%'>
